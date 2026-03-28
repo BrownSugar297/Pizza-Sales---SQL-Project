@@ -75,19 +75,19 @@ Pizza-Sales-SQL-Project/
 
 ## 📈 Use Cases
 
-* Data Analyst Portfolio Project
-* SQL Practice for Interviews
-* Business Intelligence Insights
-* Beginner-friendly Data Analytics Project
+- 🔹 **Data Analyst Portfolio Project**
+- 🔹 **SQL Practice for Interviews**
+- 🔹 **Business Intelligence Insights**
+- 🔹 **Beginner-friendly Data Analytics Project**
 
 ---
 
 ## 💡 Future Improvements
 
-* Build a dashboard using **Power BI / Tableau**
-* Add Python (Pandas) analysis
-* Deploy as a web dashboard using **Streamlit**
-* Integrate with real-time data pipeline
+- 🚀 **Build a dashboard using Power BI / Tableau**
+- 🐍 **Add Python (Pandas) analysis**
+- 🌐 **Deploy as a web dashboard using Streamlit**
+- ⚡ **Integrate with real-time data pipeline**
 
 ---
 
@@ -104,14 +104,3 @@ If you have any questions or suggestions, feel free to connect!
 ---
 
 ⭐ **If you like this project, don't forget to star the repo!**
-
-```
-
----
-
-If you want, I can also:
-- Add **GitHub badges (stars, forks, tech stack icons)**  
-- Convert this into a **Data Analyst portfolio-level README (premium style)**  
-- Or create a **Power BI + SQL combined project README** 🚀
-```
-
