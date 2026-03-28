@@ -102,5 +102,4 @@ Feel free to fork this repository and improve queries or add visualizations.
 If you have any questions or suggestions, feel free to connect!
 
 ---
-
 ⭐ **If you like this project, don't forget to star the repo!**
