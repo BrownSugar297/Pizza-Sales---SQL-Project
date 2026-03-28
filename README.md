@@ -1,8 +1,3 @@
-Here’s a clean, professional **GitHub README.md (Markdown)** you can directly copy-paste and use 👇
-
----
-
-```markdown
 # 🍕 Pizza Sales Analysis (SQL Project)
 
 ## 📌 Project Overview
